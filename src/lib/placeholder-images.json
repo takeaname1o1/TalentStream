@@ -1,0 +1,82 @@
+{
+  "placeholderImages": [
+    {
+      "id": "user-avatar-1",
+      "description": "User avatar for Alice Johnson",
+      "imageUrl": "https://picsum.photos/seed/10/40/40",
+      "imageHint": "woman face"
+    },
+    {
+      "id": "user-avatar-2",
+      "description": "User avatar for Bob Williams",
+      "imageUrl": "https://picsum.photos/seed/11/40/40",
+      "imageHint": "man face"
+    },
+    {
+      "id": "user-avatar-3",
+      "description": "User avatar for Charlie Brown",
+      "imageUrl": "https://picsum.photos/seed/12/40/40",
+      "imageHint": "person cartoon"
+    },
+    {
+      "id": "user-avatar-4",
+      "description": "User avatar for Diana Prince",
+      "imageUrl": "https://picsum.photos/seed/13/40/40",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "user-avatar-5",
+      "description": "User avatar for Ethan Hunt",
+      "imageUrl": "https://picsum.photos/seed/14/40/40",
+      "imageHint": "man action"
+    },
+    {
+      "id": "user-avatar-6",
+      "description": "User avatar for Fiona Glenanne",
+      "imageUrl": "https://picsum.photos/seed/15/40/40",
+      "imageHint": "woman glasses"
+    },
+    {
+      "id": "user-avatar-7",
+      "description": "User avatar for George Costanza",
+      "imageUrl": "https://picsum.photos/seed/16/40/40",
+      "imageHint": "man bald"
+    },
+    {
+      "id": "user-avatar-8",
+      "description": "User avatar for Hannah Montana",
+      "imageUrl": "https://picsum.photos/seed/17/40/40",
+      "imageHint": "woman singing"
+    },
+    {
+      "id": "user-avatar-9",
+      "description": "User avatar for Iris West",
+      "imageUrl": "https://picsum.photos/seed/18/40/40",
+      "imageHint": "woman smile"
+    },
+    {
+      "id": "user-avatar-10",
+      "description": "User avatar for Jack Sparrow",
+      "imageUrl": "https://picsum.photos/seed/19/40/40",
+      "imageHint": "man pirate"
+    },
+    {
+      "id": "user-avatar-sarah",
+      "description": "User avatar for Sarah Lee",
+      "imageUrl": "https://picsum.photos/seed/20/40/40",
+      "imageHint": "woman professional"
+    },
+    {
+      "id": "user-avatar-john",
+      "description": "User avatar for John Doe",
+      "imageUrl": "https://picsum.photos/seed/21/40/40",
+      "imageHint": "man professional"
+    },
+    {
+      "id": "system-avatar",
+      "description": "System avatar",
+      "imageUrl": "https://picsum.photos/seed/22/40/40",
+      "imageHint": "logo icon"
+    }
+  ]
+}
