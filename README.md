@@ -1,4 +1,5 @@
-# TalentStream
+
+[TalentStream](https://talent-stream-73jx.vercel.app/)
 
 TalentStream is a Next.js application designed to streamline and manage your hiring process, from job postings to candidate tracking. It features a modern tech stack, a component-based architecture, and integrated AI capabilities.
 
