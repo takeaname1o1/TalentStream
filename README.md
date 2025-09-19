@@ -22,7 +22,6 @@ This project is built with a modern, performant, and scalable tech stack:
 * **UI Library**: [React 18](https://react.dev/)
 * **Component Library**: [ShadCN/UI](https://ui.shadcn.com/)
 * **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-* **AI Integration**: [Genkit](https://firebase.google.com/docs/genkit)
 * **Form Management**: [React Hook Form](https://react-hook-form.com/) + [Zod](https://zod.dev/)
 * **Icons**: [Unicons](https://iconscout.com/unicons)
 * **Data Layer**: React hooks + `localStorage`
