@@ -90,4 +90,3 @@ npm run dev
 
 ---
 
-Do you want me to **make the GitHub repo link secondary** (after the live demo link) so it’s clear the live app is the main focus?
